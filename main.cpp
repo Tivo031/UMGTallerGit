@@ -4,4 +4,6 @@ main(){
     //Inicio
     cout<<"Hola Mundo">>endl;
     cout<<"Hola Mundo 2">>endl;
+    cout<<"Hola Mundo 2">>endl;
+
 }
